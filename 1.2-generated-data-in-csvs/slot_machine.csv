@@ -1,0 +1,16 @@
+machine_code,location_code,status,model
+SM001,LOC004,Offline,Model-600
+SM002,LOC005,Offline,Model-392
+SM003,LOC003,Online,Model-913
+SM004,LOC004,Offline,Model-177
+SM005,LOC001,Online,Model-254
+SM006,LOC005,Offline,Model-137
+SM007,LOC002,Maintenance,Model-423
+SM008,LOC003,Online,Model-864
+SM009,LOC002,Online,Model-929
+SM010,LOC004,Maintenance,Model-820
+SM011,LOC003,Offline,Model-573
+SM012,LOC001,Offline,Model-462
+SM013,LOC002,Offline,Model-871
+SM014,LOC005,Online,Model-144
+SM015,LOC002,Maintenance,Model-386

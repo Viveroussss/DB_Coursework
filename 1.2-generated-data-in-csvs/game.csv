@@ -1,0 +1,9 @@
+game_name,type,min_bet,max_bet
+Game_1,Blackjack,1.17,894.78
+Game_2,Roulette,5.1,151.25
+Game_3,Bingo,2.13,819.63
+Game_4,Number,8.84,65.34
+Game_5,Bingo,3.86,453.49
+Game_6,Number,5.27,790.95
+Game_7,Bingo,3.52,276.52
+Game_8,Poker,7.12,688.82

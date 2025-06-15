@@ -1,0 +1,21 @@
+table_code,game_name,location_code,status
+TBL001,Game_8,LOC001,In Use
+TBL002,Game_8,LOC003,In Use
+TBL003,Game_1,LOC004,Available
+TBL004,Game_7,LOC004,In Use
+TBL005,Game_7,LOC003,Available
+TBL006,Game_8,LOC005,In Use
+TBL007,Game_3,LOC002,In Use
+TBL008,Game_1,LOC003,Available
+TBL009,Game_8,LOC005,Available
+TBL010,Game_7,LOC005,Maintenance
+TBL011,Game_6,LOC005,In Use
+TBL012,Game_2,LOC004,In Use
+TBL013,Game_1,LOC001,In Use
+TBL014,Game_5,LOC002,In Use
+TBL015,Game_4,LOC005,Available
+TBL016,Game_5,LOC003,Maintenance
+TBL017,Game_4,LOC003,Available
+TBL018,Game_2,LOC004,Available
+TBL019,Game_4,LOC003,Maintenance
+TBL020,Game_7,LOC004,Available
